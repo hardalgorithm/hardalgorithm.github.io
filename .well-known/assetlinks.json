@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "web.bird.rent",
+			"sha256_cert_fingerprints": [
+				"D6:8E:AD:71:D8:41:C5:3B:3D:97:6F:45:5D:F4:19:D1:1B:96:78:EF:9C:D9:AB:02:0E:F0:36:56:EE:BF:02:72"
+			]
+		}
+	}
+]
